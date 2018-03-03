@@ -1,0 +1,10 @@
+CalamityJaneNF-Bold->ok
+CalamityJaneNF->ok
+Culinary Art->ok
+Diane de France->ok
+Dingleberries->ok
+FOnt1->nok
+FOnt2->nok
+FOnt3->nok
+FOnt4->nok
+AMS Aakash->nok
